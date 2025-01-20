@@ -1,4 +1,4 @@
-![Alien Zeus](zeus.png)
+![Alien Zeus](zeus1.png)
 # **ALIEN ZEUS**
 ### **_Passionate Software Developer_**
 
