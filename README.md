@@ -13,7 +13,7 @@
     <title> Portfolio </title>
 </head>
 <body>
-    <div id="description" class="description">
+    <div id="intro" class="intro">
         <h1> I do Codes to Solve your problems </h1>
         <p> And Sleep to Refresh my brain </p>
     </div>
