@@ -1,14 +1,24 @@
 ![Alien Zeus](zeus1.png)
-# **ALIEN ZEUS**
-### **_Passionate Software Developer_**
+# **ALIEN ZEUS** 
+### **_Passionate Developer | Student | Project Manager_**
+----
 
 
-### **Work is a blessing when the work is your passion, I truely believe in this line.**
-
-### At a glance of My Working Field  🤗
+### **What I love to do**  🤗
 ```html
-<h1> I do Coding to solve </h1>
-<p> And Sleep to Reset my mind </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Portfolio </title>
+</head>
+<body>
+    <div id="description" class="description">
+        <h1> I do Codes to Solve your problems </h1>
+        <p> And Sleep to Refresh my brain </p>
+    </div>
+</body>
+</html>
 ```
 ### **Education** ##
 
@@ -20,9 +30,12 @@
 | Goga Kaliani Govt. Primary School | PSC | 5.00 out of 5.00 | 2016
 
 ### **Skills**
-- Management skills
-- Web Development
-- C & C++, JavaScript
+- Project Management
+- Front End Web Development
+- C & C++, JavaScript Languages
+- MS Office Advance
+- Google Service tools
+- Git and GitHub
 
 ### **Work Experiences**
 - Jr. Executive (Operations) at **APAR'S**
@@ -33,6 +46,6 @@
 ### **Contact Me**
 - +880 1710 741 250
 - zeus@apars.shop
-- Flat #B1, Houwithse #364, Road #5, Ave #4, Mirpur DOHS, Dhaka
+- Flat #B1, House #364, Road #5, Ave #4, Mirpur DOHS, Dhaka
 
 
