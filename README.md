@@ -42,7 +42,7 @@ I'm a passionate developer with a knack for solving problems through code. Curre
 
 - **Jr. Executive (Operations)** at APAR'S  
 - **Freelance Typist & Proofreader** at ACS Group  
-- **Managing Director** at DABAA  
+- **Founder and CEO** at DABAA  
 - **CEO** at 3 Zoom Lifestyle  
 
 ---
