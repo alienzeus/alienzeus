@@ -1,5 +1,6 @@
 ![Alien Zeus](zeus1.png)
-# 👨‍💻 Alien Zeus | Passionate Developer | Project Manager | Student
+# Alien Zeus
+## Engineering Student | Programmer | Entrepreneur
 
 **Hey there! I'm Alien Zeus**  
 I'm a passionate developer with a knack for solving problems through code. Currently studying and managing projects to hone my skills and make an impact in the tech world.
